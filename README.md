@@ -87,9 +87,9 @@ ai-infra-team-lead-solutions/
 
 ## Related Resources
 
-- [Team Lead Learning Repository](../../learning/ai-infra-team-lead-learning/)
-- [Senior Engineer Track](../../learning/ai-infra-senior-engineer-learning/)
-- [Architect Track](../../learning/ai-infra-architect-learning/)
+- [Team Lead Learning Repository](https://github.com/ai-infra-curriculum/ai-infra-team-lead-learning)
+- [Senior Engineer Track](https://github.com/ai-infra-curriculum/ai-infra-senior-engineer-learning)
+- [Architect Track](https://github.com/ai-infra-curriculum/ai-infra-architect-learning)
 
 ---
 
