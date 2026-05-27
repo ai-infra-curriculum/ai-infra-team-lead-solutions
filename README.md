@@ -11,6 +11,10 @@ Most failure modes for new leads are dropping one of the three. The
 solutions in this repo are structured around addressing all three
 simultaneously.
 
+## What's new — 2026-05-27
+
+Module-level `SOLUTION.md` design-rationale docs for all 5 modules (mod-701 team-operations, mod-702 people-management, mod-703 project-roadmap, mod-704 cross-team-coordination, mod-705 hiring-onboarding). Each doc explains the first-line manager / tech-lead altitude specifically: what the rituals and artifacts should actually look like, where common failure modes hide, and how this layer connects to the principal-engineer / principal-architect tracks above. Audit score: 45 → 55.
+
 ## Track Overview
 
 | Track Tier | Level | Repo |
