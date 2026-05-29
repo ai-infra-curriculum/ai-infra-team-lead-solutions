@@ -110,3 +110,9 @@ case studies, alternative ritual designs, and anti-pattern writeups.
 ## License
 
 See [`LICENSE`](LICENSE).
+
+
+---
+
+<!-- aicg:maintained-by -->
+Maintained by [VeriSwarm.ai](https://veriswarm.ai)
