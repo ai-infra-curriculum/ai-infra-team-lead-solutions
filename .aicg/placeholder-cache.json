@@ -1,0 +1,246 @@
+{
+  "entries": {
+    "CODE_OF_CONDUCT.md": {
+      "findings": [],
+      "mtime_ns": 1780083786737926104,
+      "size": 10090
+    },
+    "CONTRIBUTING.md": {
+      "findings": [],
+      "mtime_ns": 1780083786737926104,
+      "size": 924
+    },
+    "CURRICULUM.md": {
+      "findings": [],
+      "mtime_ns": 1780095927206083985,
+      "size": 455
+    },
+    "LEARNING_GUIDE.md": {
+      "findings": [],
+      "mtime_ns": 1780083786737926104,
+      "size": 935
+    },
+    "README.md": {
+      "findings": [],
+      "mtime_ns": 1780083786737926104,
+      "size": 5134
+    },
+    "SOLUTIONS_INDEX.md": {
+      "findings": [],
+      "mtime_ns": 1780083786737926104,
+      "size": 599
+    },
+    "SOLUTION_OVERVIEW.md": {
+      "findings": [],
+      "mtime_ns": 1780083786737926104,
+      "size": 4086
+    },
+    "VERSIONS.md": {
+      "findings": [],
+      "mtime_ns": 1780095927206083985,
+      "size": 217
+    },
+    "guides/README.md": {
+      "findings": [],
+      "mtime_ns": 1780083786737926104,
+      "size": 116
+    },
+    "modules/README.md": {
+      "findings": [],
+      "mtime_ns": 1780083786737926104,
+      "size": 114
+    },
+    "modules/mod-701-team-operations/README.md": {
+      "findings": [],
+      "mtime_ns": 1780083786737926104,
+      "size": 122
+    },
+    "modules/mod-701-team-operations/SOLUTION.md": {
+      "findings": [],
+      "mtime_ns": 1780083786737926104,
+      "size": 8778
+    },
+    "modules/mod-701-team-operations/exercise-01/README.md": {
+      "findings": [],
+      "mtime_ns": 1780083786737926104,
+      "size": 451
+    },
+    "modules/mod-701-team-operations/exercise-02/README.md": {
+      "findings": [],
+      "mtime_ns": 1780083786737926104,
+      "size": 451
+    },
+    "modules/mod-701-team-operations/exercise-03/README.md": {
+      "findings": [],
+      "mtime_ns": 1780083786737926104,
+      "size": 451
+    },
+    "modules/mod-701-team-operations/exercise-04/README.md": {
+      "findings": [],
+      "mtime_ns": 1780083786737926104,
+      "size": 451
+    },
+    "modules/mod-701-team-operations/exercise-05/README.md": {
+      "findings": [],
+      "mtime_ns": 1780083786737926104,
+      "size": 451
+    },
+    "modules/mod-702-people-management/README.md": {
+      "findings": [],
+      "mtime_ns": 1780083786737926104,
+      "size": 124
+    },
+    "modules/mod-702-people-management/SOLUTION.md": {
+      "findings": [],
+      "mtime_ns": 1780083786741926289,
+      "size": 9290
+    },
+    "modules/mod-702-people-management/exercise-01/README.md": {
+      "findings": [],
+      "mtime_ns": 1780083786741926289,
+      "size": 457
+    },
+    "modules/mod-702-people-management/exercise-02/README.md": {
+      "findings": [],
+      "mtime_ns": 1780083786741926289,
+      "size": 457
+    },
+    "modules/mod-702-people-management/exercise-03/README.md": {
+      "findings": [],
+      "mtime_ns": 1780083786741926289,
+      "size": 457
+    },
+    "modules/mod-702-people-management/exercise-04/README.md": {
+      "findings": [],
+      "mtime_ns": 1780083786741926289,
+      "size": 457
+    },
+    "modules/mod-702-people-management/exercise-05/README.md": {
+      "findings": [],
+      "mtime_ns": 1780083786741926289,
+      "size": 457
+    },
+    "modules/mod-703-project-roadmap/README.md": {
+      "findings": [],
+      "mtime_ns": 1780083786741926289,
+      "size": 122
+    },
+    "modules/mod-703-project-roadmap/SOLUTION.md": {
+      "findings": [],
+      "mtime_ns": 1780083786741926289,
+      "size": 8680
+    },
+    "modules/mod-703-project-roadmap/exercise-01/README.md": {
+      "findings": [],
+      "mtime_ns": 1780083786741926289,
+      "size": 451
+    },
+    "modules/mod-703-project-roadmap/exercise-02/README.md": {
+      "findings": [],
+      "mtime_ns": 1780083786741926289,
+      "size": 451
+    },
+    "modules/mod-703-project-roadmap/exercise-03/README.md": {
+      "findings": [],
+      "mtime_ns": 1780083786745926474,
+      "size": 451
+    },
+    "modules/mod-703-project-roadmap/exercise-04/README.md": {
+      "findings": [],
+      "mtime_ns": 1780083786745926474,
+      "size": 451
+    },
+    "modules/mod-703-project-roadmap/exercise-05/README.md": {
+      "findings": [],
+      "mtime_ns": 1780083786745926474,
+      "size": 451
+    },
+    "modules/mod-704-cross-team-coordination/README.md": {
+      "findings": [],
+      "mtime_ns": 1780083786745926474,
+      "size": 130
+    },
+    "modules/mod-704-cross-team-coordination/SOLUTION.md": {
+      "findings": [],
+      "mtime_ns": 1780083786745926474,
+      "size": 8625
+    },
+    "modules/mod-704-cross-team-coordination/exercise-01/README.md": {
+      "findings": [],
+      "mtime_ns": 1780083786745926474,
+      "size": 475
+    },
+    "modules/mod-704-cross-team-coordination/exercise-02/README.md": {
+      "findings": [],
+      "mtime_ns": 1780083786745926474,
+      "size": 475
+    },
+    "modules/mod-704-cross-team-coordination/exercise-03/README.md": {
+      "findings": [],
+      "mtime_ns": 1780083786749926659,
+      "size": 475
+    },
+    "modules/mod-704-cross-team-coordination/exercise-04/README.md": {
+      "findings": [],
+      "mtime_ns": 1780083786749926659,
+      "size": 475
+    },
+    "modules/mod-704-cross-team-coordination/exercise-05/README.md": {
+      "findings": [],
+      "mtime_ns": 1780083786749926659,
+      "size": 475
+    },
+    "modules/mod-705-hiring-onboarding/README.md": {
+      "findings": [],
+      "mtime_ns": 1780083786749926659,
+      "size": 124
+    },
+    "modules/mod-705-hiring-onboarding/SOLUTION.md": {
+      "findings": [],
+      "mtime_ns": 1780083786749926659,
+      "size": 9150
+    },
+    "modules/mod-705-hiring-onboarding/exercise-01/README.md": {
+      "findings": [],
+      "mtime_ns": 1780083786749926659,
+      "size": 457
+    },
+    "modules/mod-705-hiring-onboarding/exercise-02/README.md": {
+      "findings": [],
+      "mtime_ns": 1780083786749926659,
+      "size": 457
+    },
+    "modules/mod-705-hiring-onboarding/exercise-03/README.md": {
+      "findings": [],
+      "mtime_ns": 1780083786749926659,
+      "size": 457
+    },
+    "modules/mod-705-hiring-onboarding/exercise-04/README.md": {
+      "findings": [],
+      "mtime_ns": 1780083786749926659,
+      "size": 457
+    },
+    "modules/mod-705-hiring-onboarding/exercise-05/README.md": {
+      "findings": [],
+      "mtime_ns": 1780083786749926659,
+      "size": 457
+    },
+    "projects/README.md": {
+      "findings": [],
+      "mtime_ns": 1780083786749926659,
+      "size": 64
+    },
+    "projects/project-01-team-process/SOLUTION.md": {
+      "findings": [],
+      "mtime_ns": 1780095921033945305,
+      "size": 26864
+    },
+    "resources/README.md": {
+      "findings": [],
+      "mtime_ns": 1780083786749926659,
+      "size": 85
+    }
+  },
+  "generated_at": "2026-05-29T23:05:27Z",
+  "schema_version": 1
+}

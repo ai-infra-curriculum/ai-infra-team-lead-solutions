@@ -1,0 +1,38 @@
+{
+  "already_present": [],
+  "curriculum_appended": {
+    "already_present": [],
+    "appended": [
+      "fill-project-01-team-process-solution"
+    ],
+    "present": true
+  },
+  "curriculum_suggestions": [
+    {
+      "scope": "project-01-team-process",
+      "suggestion": "Update `CURRICULUM.md` so the row for `project-01-team-process` reflects the newly-landed content. Schema varies per repo; this is a suggested edit, not an automated change.",
+      "work_id": "fill-project-01-team-process-solution"
+    }
+  ],
+  "generated_at": "2026-05-29T23:05:27Z",
+  "repo": {
+    "has_git": true,
+    "kind": "solutions",
+    "name": "ai-infra-team-lead-solutions",
+    "path": "/home/rook/ai-infra-curriculum/ai-infra-team-lead-solutions",
+    "track": "team-lead"
+  },
+  "schema_version": 1,
+  "status": "updated",
+  "updated": [
+    {
+      "date": "2026-05-29",
+      "module": null,
+      "project": "project-01-team-process",
+      "title": "Author solution artifact for project-01-team-process",
+      "type": "project_solution_gap",
+      "work_id": "fill-project-01-team-process-solution"
+    }
+  ],
+  "versions_path": "VERSIONS.md"
+}
