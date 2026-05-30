@@ -18,14 +18,6 @@
   },
   "gaps": [
     {
-      "expected_path": "projects/project-01-team-process",
-      "learning_path": "projects/project-01-team-process",
-      "message": "Missing solution project directory for project-01-team-process.",
-      "project_id": "project-01-team-process",
-      "severity": "error",
-      "type": "missing_solution_project"
-    },
-    {
       "expected_path": "projects/project-02-technical-strategy",
       "learning_path": "projects/project-02-technical-strategy",
       "message": "Missing solution project directory for project-02-technical-strategy.",
@@ -42,6 +34,14 @@
       "type": "missing_solution_project"
     },
     {
+      "expected_path": "projects/project-04-platform-project",
+      "learning_path": "projects/project-04-platform-project",
+      "message": "Missing solution project directory for project-04-platform-project.",
+      "project_id": "project-04-platform-project",
+      "severity": "error",
+      "type": "missing_solution_project"
+    },
+    {
       "expected_path": "projects/project-05-leadership-capstone",
       "learning_path": "projects/project-05-leadership-capstone",
       "message": "Missing solution project directory for project-05-leadership-capstone.",
@@ -50,7 +50,7 @@
       "type": "missing_solution_project"
     }
   ],
-  "generated_at": "2026-05-30T02:06:06Z",
+  "generated_at": "2026-05-29T23:05:27Z",
   "modules": [
     {
       "exercise_count": 5,
@@ -507,21 +507,12 @@
   },
   "projects": [
     {
-      "found_artifact": null,
-      "gaps": [
-        {
-          "expected_path": "projects/project-01-team-process",
-          "learning_path": "projects/project-01-team-process",
-          "message": "Missing solution project directory for project-01-team-process.",
-          "project_id": "project-01-team-process",
-          "severity": "error",
-          "type": "missing_solution_project"
-        }
-      ],
+      "found_artifact": "projects/project-01-team-process/SOLUTION.md",
+      "gaps": [],
       "learning_path": "projects/project-01-team-process",
       "project_id": "project-01-team-process",
-      "solution_path": null,
-      "status": "gap",
+      "solution_path": "projects/project-01-team-process",
+      "status": "ok",
       "title": "Project 01 \u2014 Team Process Implementation"
     },
     {
@@ -561,12 +552,21 @@
       "title": "Project 03 \u2014 Hiring & Onboarding Pipeline"
     },
     {
-      "found_artifact": "projects/project-04-platform-project/SOLUTION.md",
-      "gaps": [],
+      "found_artifact": null,
+      "gaps": [
+        {
+          "expected_path": "projects/project-04-platform-project",
+          "learning_path": "projects/project-04-platform-project",
+          "message": "Missing solution project directory for project-04-platform-project.",
+          "project_id": "project-04-platform-project",
+          "severity": "error",
+          "type": "missing_solution_project"
+        }
+      ],
       "learning_path": "projects/project-04-platform-project",
       "project_id": "project-04-platform-project",
-      "solution_path": "projects/project-04-platform-project",
-      "status": "ok",
+      "solution_path": null,
+      "status": "gap",
       "title": "Project 04 \u2014 Cross-Functional Platform Project"
     },
     {

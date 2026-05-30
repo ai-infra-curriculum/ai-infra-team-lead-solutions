@@ -1,7 +1,7 @@
 ## AICG Work Item
 
-- Work ID: `fill-project-04-platform-project-solution`
-- Project: `project-04-platform-project`
+- Work ID: `fill-project-01-team-process-solution`
+- Project: `project-01-team-process`
 - Type: `project_solution_gap`
 
 ## Audit Summary
@@ -18,5 +18,5 @@
 ## Rollback
 
 ```bash
-git checkout main && git branch -D aicg/2026-05-29/ai-infra-team-lead-solutions/fill-project-04-platform-project-solution
+git checkout main && git branch -D aicg/2026-05-29/ai-infra-team-lead-solutions/fill-project-01-team-process-solution
 ```

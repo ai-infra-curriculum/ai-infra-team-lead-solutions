@@ -1,0 +1,106 @@
+{
+  "curriculum_index_present": false,
+  "curriculum_md_present": true,
+  "findings": [
+    {
+      "message": "`CURRICULUM.md` does not reference module `mod-701-team-operations` that exists on disk.",
+      "path": "CURRICULUM.md#mod-701-team-operations",
+      "repo": "ai-infra-team-lead-solutions",
+      "severity": "warning",
+      "type": "nav_missing_reference"
+    },
+    {
+      "message": "`CURRICULUM.md` does not reference module `mod-702-people-management` that exists on disk.",
+      "path": "CURRICULUM.md#mod-702-people-management",
+      "repo": "ai-infra-team-lead-solutions",
+      "severity": "warning",
+      "type": "nav_missing_reference"
+    },
+    {
+      "message": "`CURRICULUM.md` does not reference module `mod-703-project-roadmap` that exists on disk.",
+      "path": "CURRICULUM.md#mod-703-project-roadmap",
+      "repo": "ai-infra-team-lead-solutions",
+      "severity": "warning",
+      "type": "nav_missing_reference"
+    },
+    {
+      "message": "`CURRICULUM.md` does not reference module `mod-704-cross-team-coordination` that exists on disk.",
+      "path": "CURRICULUM.md#mod-704-cross-team-coordination",
+      "repo": "ai-infra-team-lead-solutions",
+      "severity": "warning",
+      "type": "nav_missing_reference"
+    },
+    {
+      "message": "`CURRICULUM.md` does not reference module `mod-705-hiring-onboarding` that exists on disk.",
+      "path": "CURRICULUM.md#mod-705-hiring-onboarding",
+      "repo": "ai-infra-team-lead-solutions",
+      "severity": "warning",
+      "type": "nav_missing_reference"
+    }
+  ],
+  "gap_count": 5,
+  "generated_at": "2026-05-29T19:45:29Z",
+  "modules_on_disk": [
+    "mod-701-team-operations",
+    "mod-702-people-management",
+    "mod-703-project-roadmap",
+    "mod-704-cross-team-coordination",
+    "mod-705-hiring-onboarding"
+  ],
+  "operation": "curriculum_nav_audit",
+  "projects_on_disk": [],
+  "repo": "ai-infra-team-lead-solutions",
+  "schema_version": 1,
+  "work_items": [
+    {
+      "details": "`CURRICULUM.md` does not reference module `mod-701-team-operations` that exists on disk.",
+      "id": "nav-nav-missing-reference-curriculum-md-mod-701-team-operations",
+      "path": "CURRICULUM.md#mod-701-team-operations",
+      "repo": "ai-infra-team-lead-solutions",
+      "severity": "warning",
+      "subtype": "nav_missing_reference",
+      "title": "`CURRICULUM.md` does not reference module `mod-701-team-operations` that exists on disk.",
+      "type": "curriculum_nav_drift"
+    },
+    {
+      "details": "`CURRICULUM.md` does not reference module `mod-702-people-management` that exists on disk.",
+      "id": "nav-nav-missing-reference-curriculum-md-mod-702-people-management",
+      "path": "CURRICULUM.md#mod-702-people-management",
+      "repo": "ai-infra-team-lead-solutions",
+      "severity": "warning",
+      "subtype": "nav_missing_reference",
+      "title": "`CURRICULUM.md` does not reference module `mod-702-people-management` that exists on disk.",
+      "type": "curriculum_nav_drift"
+    },
+    {
+      "details": "`CURRICULUM.md` does not reference module `mod-703-project-roadmap` that exists on disk.",
+      "id": "nav-nav-missing-reference-curriculum-md-mod-703-project-roadmap",
+      "path": "CURRICULUM.md#mod-703-project-roadmap",
+      "repo": "ai-infra-team-lead-solutions",
+      "severity": "warning",
+      "subtype": "nav_missing_reference",
+      "title": "`CURRICULUM.md` does not reference module `mod-703-project-roadmap` that exists on disk.",
+      "type": "curriculum_nav_drift"
+    },
+    {
+      "details": "`CURRICULUM.md` does not reference module `mod-704-cross-team-coordination` that exists on disk.",
+      "id": "nav-nav-missing-reference-curriculum-md-mod-704-cross-team-coordination",
+      "path": "CURRICULUM.md#mod-704-cross-team-coordination",
+      "repo": "ai-infra-team-lead-solutions",
+      "severity": "warning",
+      "subtype": "nav_missing_reference",
+      "title": "`CURRICULUM.md` does not reference module `mod-704-cross-team-coordination` that exists on disk.",
+      "type": "curriculum_nav_drift"
+    },
+    {
+      "details": "`CURRICULUM.md` does not reference module `mod-705-hiring-onboarding` that exists on disk.",
+      "id": "nav-nav-missing-reference-curriculum-md-mod-705-hiring-onboarding",
+      "path": "CURRICULUM.md#mod-705-hiring-onboarding",
+      "repo": "ai-infra-team-lead-solutions",
+      "severity": "warning",
+      "subtype": "nav_missing_reference",
+      "title": "`CURRICULUM.md` does not reference module `mod-705-hiring-onboarding` that exists on disk.",
+      "type": "curriculum_nav_drift"
+    }
+  ]
+}
