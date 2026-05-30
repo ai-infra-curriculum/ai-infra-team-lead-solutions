@@ -18,18 +18,18 @@
   },
   "gaps": [
     {
-      "expected_path": "projects/project-01-team-process",
-      "learning_path": "projects/project-01-team-process",
-      "message": "Missing solution project directory for project-01-team-process.",
-      "project_id": "project-01-team-process",
-      "severity": "error",
-      "type": "missing_solution_project"
-    },
-    {
       "expected_path": "projects/project-02-technical-strategy",
       "learning_path": "projects/project-02-technical-strategy",
       "message": "Missing solution project directory for project-02-technical-strategy.",
       "project_id": "project-02-technical-strategy",
+      "severity": "error",
+      "type": "missing_solution_project"
+    },
+    {
+      "expected_path": "projects/project-03-hiring-onboarding",
+      "learning_path": "projects/project-03-hiring-onboarding",
+      "message": "Missing solution project directory for project-03-hiring-onboarding.",
+      "project_id": "project-03-hiring-onboarding",
       "severity": "error",
       "type": "missing_solution_project"
     },
@@ -50,7 +50,7 @@
       "type": "missing_solution_project"
     }
   ],
-  "generated_at": "2026-05-30T01:07:07Z",
+  "generated_at": "2026-05-29T23:05:27Z",
   "modules": [
     {
       "exercise_count": 5,
@@ -507,21 +507,12 @@
   },
   "projects": [
     {
-      "found_artifact": null,
-      "gaps": [
-        {
-          "expected_path": "projects/project-01-team-process",
-          "learning_path": "projects/project-01-team-process",
-          "message": "Missing solution project directory for project-01-team-process.",
-          "project_id": "project-01-team-process",
-          "severity": "error",
-          "type": "missing_solution_project"
-        }
-      ],
+      "found_artifact": "projects/project-01-team-process/SOLUTION.md",
+      "gaps": [],
       "learning_path": "projects/project-01-team-process",
       "project_id": "project-01-team-process",
-      "solution_path": null,
-      "status": "gap",
+      "solution_path": "projects/project-01-team-process",
+      "status": "ok",
       "title": "Project 01 \u2014 Team Process Implementation"
     },
     {
@@ -543,12 +534,21 @@
       "title": "Project 02 \u2014 Technical Strategy & Roadmap"
     },
     {
-      "found_artifact": "projects/project-03-hiring-onboarding/SOLUTION.md",
-      "gaps": [],
+      "found_artifact": null,
+      "gaps": [
+        {
+          "expected_path": "projects/project-03-hiring-onboarding",
+          "learning_path": "projects/project-03-hiring-onboarding",
+          "message": "Missing solution project directory for project-03-hiring-onboarding.",
+          "project_id": "project-03-hiring-onboarding",
+          "severity": "error",
+          "type": "missing_solution_project"
+        }
+      ],
       "learning_path": "projects/project-03-hiring-onboarding",
       "project_id": "project-03-hiring-onboarding",
-      "solution_path": "projects/project-03-hiring-onboarding",
-      "status": "ok",
+      "solution_path": null,
+      "status": "gap",
       "title": "Project 03 \u2014 Hiring & Onboarding Pipeline"
     },
     {
