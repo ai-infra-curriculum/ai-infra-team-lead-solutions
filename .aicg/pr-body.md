@@ -1,14 +1,14 @@
 ## AICG Work Item
 
-- Work ID: `fill-project-05-leadership-capstone-solution`
-- Project: `project-05-leadership-capstone`
+- Work ID: `fill-project-01-team-process-solution`
+- Project: `project-01-team-process`
 - Type: `project_solution_gap`
 
 ## Audit Summary
 
 - Status: `fail`
 - Errors: `4`
-- Warnings: `1`
+- Warnings: `0`
 
 ## Validation Summary
 
@@ -18,5 +18,5 @@
 ## Rollback
 
 ```bash
-git checkout main && git branch -D aicg/2026-05-29/ai-infra-team-lead-solutions/fill-project-05-leadership-capstone-solution
+git checkout main && git branch -D aicg/2026-05-29/ai-infra-team-lead-solutions/fill-project-01-team-process-solution
 ```

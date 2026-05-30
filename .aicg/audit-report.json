@@ -4,7 +4,7 @@
       "status": "pass"
     },
     "placeholder_scan": {
-      "finding_count": 1,
+      "finding_count": 0,
       "status": "pass"
     },
     "project_parity": {
@@ -17,14 +17,6 @@
     }
   },
   "gaps": [
-    {
-      "expected_path": "projects/project-01-team-process",
-      "learning_path": "projects/project-01-team-process",
-      "message": "Missing solution project directory for project-01-team-process.",
-      "project_id": "project-01-team-process",
-      "severity": "error",
-      "type": "missing_solution_project"
-    },
     {
       "expected_path": "projects/project-02-technical-strategy",
       "learning_path": "projects/project-02-technical-strategy",
@@ -50,15 +42,15 @@
       "type": "missing_solution_project"
     },
     {
-      "excerpt": "placeholder rows. If a report is missing, the plan is incomplete.",
-      "line": 344,
-      "message": "Found placeholder marker.",
-      "path": "projects/project-05-leadership-capstone/SOLUTION.md",
-      "severity": "warning",
-      "type": "placeholder"
+      "expected_path": "projects/project-05-leadership-capstone",
+      "learning_path": "projects/project-05-leadership-capstone",
+      "message": "Missing solution project directory for project-05-leadership-capstone.",
+      "project_id": "project-05-leadership-capstone",
+      "severity": "error",
+      "type": "missing_solution_project"
     }
   ],
-  "generated_at": "2026-05-30T03:06:59Z",
+  "generated_at": "2026-05-29T23:05:27Z",
   "modules": [
     {
       "exercise_count": 5,
@@ -515,21 +507,12 @@
   },
   "projects": [
     {
-      "found_artifact": null,
-      "gaps": [
-        {
-          "expected_path": "projects/project-01-team-process",
-          "learning_path": "projects/project-01-team-process",
-          "message": "Missing solution project directory for project-01-team-process.",
-          "project_id": "project-01-team-process",
-          "severity": "error",
-          "type": "missing_solution_project"
-        }
-      ],
+      "found_artifact": "projects/project-01-team-process/SOLUTION.md",
+      "gaps": [],
       "learning_path": "projects/project-01-team-process",
       "project_id": "project-01-team-process",
-      "solution_path": null,
-      "status": "gap",
+      "solution_path": "projects/project-01-team-process",
+      "status": "ok",
       "title": "Project 01 \u2014 Team Process Implementation"
     },
     {
@@ -587,12 +570,21 @@
       "title": "Project 04 \u2014 Cross-Functional Platform Project"
     },
     {
-      "found_artifact": "projects/project-05-leadership-capstone/SOLUTION.md",
-      "gaps": [],
+      "found_artifact": null,
+      "gaps": [
+        {
+          "expected_path": "projects/project-05-leadership-capstone",
+          "learning_path": "projects/project-05-leadership-capstone",
+          "message": "Missing solution project directory for project-05-leadership-capstone.",
+          "project_id": "project-05-leadership-capstone",
+          "severity": "error",
+          "type": "missing_solution_project"
+        }
+      ],
       "learning_path": "projects/project-05-leadership-capstone",
       "project_id": "project-05-leadership-capstone",
-      "solution_path": "projects/project-05-leadership-capstone",
-      "status": "ok",
+      "solution_path": null,
+      "status": "gap",
       "title": "Project 05 \u2014 Leadership Capstone"
     }
   ],
@@ -611,11 +603,11 @@
   },
   "summary": {
     "error_count": 4,
-    "gap_count": 5,
+    "gap_count": 4,
     "module_count": 5,
     "project_count": 5,
     "status": "fail",
-    "warning_count": 1
+    "warning_count": 0
   },
   "workspace": "/home/rook/ai-infra-curriculum"
 }

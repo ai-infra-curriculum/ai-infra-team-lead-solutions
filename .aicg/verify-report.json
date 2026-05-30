@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-30T03:06:59Z",
+  "generated_at": "2026-05-29T23:05:27Z",
   "repo": {
     "has_git": true,
     "kind": "solutions",
@@ -15,14 +15,14 @@
       "actions": [
         {
           "findings": [],
-          "path": "projects/project-05-leadership-capstone",
+          "path": "projects/project-01-team-process",
           "quality": null,
           "status": "ok",
           "type": "create_directory"
         },
         {
           "findings": [],
-          "path": "projects/project-05-leadership-capstone/SOLUTION.md",
+          "path": "projects/project-01-team-process/SOLUTION.md",
           "quality": null,
           "status": "ok",
           "type": "write_solution"
@@ -31,7 +31,7 @@
       "finding_count": 0,
       "findings": [],
       "status": "verified",
-      "work_id": "fill-project-05-leadership-capstone-solution"
+      "work_id": "fill-project-01-team-process-solution"
     }
   ]
 }

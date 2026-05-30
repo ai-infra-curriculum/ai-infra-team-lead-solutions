@@ -12,8 +12,8 @@
     },
     "CURRICULUM.md": {
       "findings": [],
-      "mtime_ns": 1780110419265331823,
-      "size": 476
+      "mtime_ns": 1780095927206083985,
+      "size": 455
     },
     "LEARNING_GUIDE.md": {
       "findings": [],
@@ -37,8 +37,8 @@
     },
     "VERSIONS.md": {
       "findings": [],
-      "mtime_ns": 1780110419265331823,
-      "size": 238
+      "mtime_ns": 1780095927206083985,
+      "size": 217
     },
     "guides/README.md": {
       "findings": [],
@@ -230,19 +230,10 @@
       "mtime_ns": 1780083786749926659,
       "size": 64
     },
-    "projects/project-05-leadership-capstone/SOLUTION.md": {
-      "findings": [
-        {
-          "excerpt": "placeholder rows. If a report is missing, the plan is incomplete.",
-          "line": 344,
-          "message": "Found placeholder marker.",
-          "path": "projects/project-05-leadership-capstone/SOLUTION.md",
-          "severity": "warning",
-          "type": "placeholder"
-        }
-      ],
-      "mtime_ns": 1780110408104549327,
-      "size": 30368
+    "projects/project-01-team-process/SOLUTION.md": {
+      "findings": [],
+      "mtime_ns": 1780095921033945305,
+      "size": 26864
     },
     "resources/README.md": {
       "findings": [],
@@ -250,6 +241,6 @@
       "size": 85
     }
   },
-  "generated_at": "2026-05-30T03:06:59Z",
+  "generated_at": "2026-05-29T23:05:27Z",
   "schema_version": 1
 }
