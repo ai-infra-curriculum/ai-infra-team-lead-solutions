@@ -1,0 +1,170 @@
+{
+  "audit_summary": {
+    "error_count": 5,
+    "gap_count": 5,
+    "module_count": 5,
+    "project_count": 5,
+    "status": "fail",
+    "warning_count": 0
+  },
+  "backlog_item_count": 0,
+  "backlog_items": [],
+  "generated_at": "2026-05-30T02:00:33Z",
+  "repo": {
+    "has_git": true,
+    "kind": "solutions",
+    "name": "ai-infra-team-lead-solutions",
+    "path": "/home/rook/ai-infra-curriculum/ai-infra-team-lead-solutions",
+    "track": "team-lead"
+  },
+  "schema_version": 2,
+  "work_item_count": 5,
+  "work_items": [
+    {
+      "actions": [
+        {
+          "path": "projects/project-01-team-process",
+          "type": "create_directory"
+        },
+        {
+          "path": "projects/project-01-team-process/SOLUTION.md",
+          "project_id": "project-01-team-process",
+          "source_project": "projects/project-01-team-process",
+          "type": "write_solution"
+        }
+      ],
+      "exercises": [],
+      "id": "fill-project-01-team-process-solution",
+      "priority": 1,
+      "project": "project-01-team-process",
+      "repo": "ai-infra-team-lead-solutions",
+      "severity": "error",
+      "source_policy": {
+        "needs_research_blocks_merge": true,
+        "official_first": true,
+        "required_default_sources": []
+      },
+      "status": "planned",
+      "title": "Author solution artifact for project-01-team-process",
+      "type": "project_solution_gap",
+      "why": "Learning repo defines a project capstone but the paired solutions repo is missing the canonical SOLUTION.md / README.md / STEP_BY_STEP.md."
+    },
+    {
+      "actions": [
+        {
+          "path": "projects/project-02-technical-strategy",
+          "type": "create_directory"
+        },
+        {
+          "path": "projects/project-02-technical-strategy/SOLUTION.md",
+          "project_id": "project-02-technical-strategy",
+          "source_project": "projects/project-02-technical-strategy",
+          "type": "write_solution"
+        }
+      ],
+      "exercises": [],
+      "id": "fill-project-02-technical-strategy-solution",
+      "priority": 2,
+      "project": "project-02-technical-strategy",
+      "repo": "ai-infra-team-lead-solutions",
+      "severity": "error",
+      "source_policy": {
+        "needs_research_blocks_merge": true,
+        "official_first": true,
+        "required_default_sources": []
+      },
+      "status": "planned",
+      "title": "Author solution artifact for project-02-technical-strategy",
+      "type": "project_solution_gap",
+      "why": "Learning repo defines a project capstone but the paired solutions repo is missing the canonical SOLUTION.md / README.md / STEP_BY_STEP.md."
+    },
+    {
+      "actions": [
+        {
+          "path": "projects/project-03-hiring-onboarding",
+          "type": "create_directory"
+        },
+        {
+          "path": "projects/project-03-hiring-onboarding/SOLUTION.md",
+          "project_id": "project-03-hiring-onboarding",
+          "source_project": "projects/project-03-hiring-onboarding",
+          "type": "write_solution"
+        }
+      ],
+      "exercises": [],
+      "id": "fill-project-03-hiring-onboarding-solution",
+      "priority": 3,
+      "project": "project-03-hiring-onboarding",
+      "repo": "ai-infra-team-lead-solutions",
+      "severity": "error",
+      "source_policy": {
+        "needs_research_blocks_merge": true,
+        "official_first": true,
+        "required_default_sources": []
+      },
+      "status": "planned",
+      "title": "Author solution artifact for project-03-hiring-onboarding",
+      "type": "project_solution_gap",
+      "why": "Learning repo defines a project capstone but the paired solutions repo is missing the canonical SOLUTION.md / README.md / STEP_BY_STEP.md."
+    },
+    {
+      "actions": [
+        {
+          "path": "projects/project-04-platform-project",
+          "type": "create_directory"
+        },
+        {
+          "path": "projects/project-04-platform-project/SOLUTION.md",
+          "project_id": "project-04-platform-project",
+          "source_project": "projects/project-04-platform-project",
+          "type": "write_solution"
+        }
+      ],
+      "exercises": [],
+      "id": "fill-project-04-platform-project-solution",
+      "priority": 4,
+      "project": "project-04-platform-project",
+      "repo": "ai-infra-team-lead-solutions",
+      "severity": "error",
+      "source_policy": {
+        "needs_research_blocks_merge": true,
+        "official_first": true,
+        "required_default_sources": []
+      },
+      "status": "verified",
+      "title": "Author solution artifact for project-04-platform-project",
+      "type": "project_solution_gap",
+      "verified_at": "2026-05-30T02:06:05Z",
+      "why": "Learning repo defines a project capstone but the paired solutions repo is missing the canonical SOLUTION.md / README.md / STEP_BY_STEP.md."
+    },
+    {
+      "actions": [
+        {
+          "path": "projects/project-05-leadership-capstone",
+          "type": "create_directory"
+        },
+        {
+          "path": "projects/project-05-leadership-capstone/SOLUTION.md",
+          "project_id": "project-05-leadership-capstone",
+          "source_project": "projects/project-05-leadership-capstone",
+          "type": "write_solution"
+        }
+      ],
+      "exercises": [],
+      "id": "fill-project-05-leadership-capstone-solution",
+      "priority": 5,
+      "project": "project-05-leadership-capstone",
+      "repo": "ai-infra-team-lead-solutions",
+      "severity": "error",
+      "source_policy": {
+        "needs_research_blocks_merge": true,
+        "official_first": true,
+        "required_default_sources": []
+      },
+      "status": "planned",
+      "title": "Author solution artifact for project-05-leadership-capstone",
+      "type": "project_solution_gap",
+      "why": "Learning repo defines a project capstone but the paired solutions repo is missing the canonical SOLUTION.md / README.md / STEP_BY_STEP.md."
+    }
+  ]
+}
