@@ -18,10 +18,10 @@
   },
   "gaps": [
     {
-      "expected_path": "projects/project-01-team-process",
-      "learning_path": "projects/project-01-team-process",
-      "message": "Missing solution project directory for project-01-team-process.",
-      "project_id": "project-01-team-process",
+      "expected_path": "projects/project-02-technical-strategy",
+      "learning_path": "projects/project-02-technical-strategy",
+      "message": "Missing solution project directory for project-02-technical-strategy.",
+      "project_id": "project-02-technical-strategy",
       "severity": "error",
       "type": "missing_solution_project"
     },
@@ -50,7 +50,7 @@
       "type": "missing_solution_project"
     }
   ],
-  "generated_at": "2026-05-30T00:05:43Z",
+  "generated_at": "2026-05-29T23:05:27Z",
   "modules": [
     {
       "exercise_count": 5,
@@ -507,30 +507,30 @@
   },
   "projects": [
     {
+      "found_artifact": "projects/project-01-team-process/SOLUTION.md",
+      "gaps": [],
+      "learning_path": "projects/project-01-team-process",
+      "project_id": "project-01-team-process",
+      "solution_path": "projects/project-01-team-process",
+      "status": "ok",
+      "title": "Project 01 \u2014 Team Process Implementation"
+    },
+    {
       "found_artifact": null,
       "gaps": [
         {
-          "expected_path": "projects/project-01-team-process",
-          "learning_path": "projects/project-01-team-process",
-          "message": "Missing solution project directory for project-01-team-process.",
-          "project_id": "project-01-team-process",
+          "expected_path": "projects/project-02-technical-strategy",
+          "learning_path": "projects/project-02-technical-strategy",
+          "message": "Missing solution project directory for project-02-technical-strategy.",
+          "project_id": "project-02-technical-strategy",
           "severity": "error",
           "type": "missing_solution_project"
         }
       ],
-      "learning_path": "projects/project-01-team-process",
-      "project_id": "project-01-team-process",
-      "solution_path": null,
-      "status": "gap",
-      "title": "Project 01 \u2014 Team Process Implementation"
-    },
-    {
-      "found_artifact": "projects/project-02-technical-strategy/SOLUTION.md",
-      "gaps": [],
       "learning_path": "projects/project-02-technical-strategy",
       "project_id": "project-02-technical-strategy",
-      "solution_path": "projects/project-02-technical-strategy",
-      "status": "ok",
+      "solution_path": null,
+      "status": "gap",
       "title": "Project 02 \u2014 Technical Strategy & Roadmap"
     },
     {
