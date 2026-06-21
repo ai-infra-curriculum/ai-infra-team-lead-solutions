@@ -1,5 +1,9 @@
 # AI Infrastructure Team Lead — Solutions Repository
 
+<!-- aicg:site-banner -->
+> 🎓 Part of the **[AI Infrastructure Curriculum](https://ai-infra-curriculum.github.io/)** — a free, open-source ladder of role-based AI-infrastructure programs. [Explore the ladder](https://ai-infra-curriculum.github.io/) · [Join the first live cohort](https://ai-infra-curriculum.github.io/junior.html)
+<!-- /aicg:site-banner -->
+
 Reference solutions for [`ai-infra-team-lead-learning`](https://github.com/ai-infra-curriculum/ai-infra-team-lead-learning).
 
 A team lead operates at the intersection of three pressures: the team
@@ -110,7 +114,6 @@ case studies, alternative ritual designs, and anti-pattern writeups.
 ## License
 
 See [`LICENSE`](LICENSE).
-
 
 ---
 
