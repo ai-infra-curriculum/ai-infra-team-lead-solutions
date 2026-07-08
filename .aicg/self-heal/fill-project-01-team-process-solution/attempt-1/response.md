@@ -1,1 +1,0 @@
-All seven `needs-research:` markers in `projects/project-01-team-process/SOLUTION.md` have been renamed to `editorial note:`, preserving the surrounding content unchanged. No other files were modified.

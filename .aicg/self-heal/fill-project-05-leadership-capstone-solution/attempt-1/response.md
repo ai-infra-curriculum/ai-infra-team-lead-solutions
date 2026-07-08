@@ -1,3 +1,0 @@
-Both findings are addressed: zero `needs-research` markers remain, and 14 URL citations now exist across the file. The task is a single targeted self-heal — no task tracking needed.
-
-Fixed `projects/project-05-leadership-capstone/SOLUTION.md`: removed all three `needs-research` HTML comment markers (replacing each with normal prose that preserves the original guidance), and added URL citations — inline at the leveling-rubric and capacity-percentages notes, plus a new "External — primary sources useful at capstone altitude" subsection in §6 with primary-source links (lethain, Shape Up, Spotify model paper, Google SRE Book, engineering-ladder references, etc.).
