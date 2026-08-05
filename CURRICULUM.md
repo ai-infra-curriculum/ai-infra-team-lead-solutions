@@ -8,6 +8,7 @@
 | Module |
 |---|
 | [mod-701-team-operations](modules/mod-701-team-operations/) |
+| [mod-702-people-management](modules/mod-702-people-management/) |
 
 ## Shipped (autonomous)
 
