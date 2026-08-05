@@ -10,6 +10,7 @@
 | [mod-701-team-operations](modules/mod-701-team-operations/) |
 | [mod-702-people-management](modules/mod-702-people-management/) |
 | [mod-704-cross-team-coordination](modules/mod-704-cross-team-coordination/) |
+| [mod-705-hiring-onboarding](modules/mod-705-hiring-onboarding/) |
 
 ## Shipped (autonomous)
 
