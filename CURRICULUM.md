@@ -3,6 +3,12 @@
 - Paired: ai-infra-team-lead-learning
 - modules/ + projects/
 
+## Modules
+
+| Module |
+|---|
+| [mod-701-team-operations](modules/mod-701-team-operations/) |
+
 ## Shipped (autonomous)
 
 Auto-appended by the AICG runner. One row per verified work item. Edit the rest of the document by hand; this section is additive only.
