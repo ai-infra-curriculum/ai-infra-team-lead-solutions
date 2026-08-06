@@ -12,6 +12,12 @@
 | [mod-704-cross-team-coordination](modules/mod-704-cross-team-coordination/) |
 | [mod-705-hiring-onboarding](modules/mod-705-hiring-onboarding/) |
 
+## Projects
+
+| Project |
+|---|
+| [project-02-technical-strategy](projects/project-02-technical-strategy/) |
+
 ## Shipped (autonomous)
 
 Auto-appended by the AICG runner. One row per verified work item. Edit the rest of the document by hand; this section is additive only.
