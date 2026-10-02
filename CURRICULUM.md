@@ -19,6 +19,7 @@
 |---|
 | [project-02-technical-strategy](projects/project-02-technical-strategy/) |
 | [project-03-hiring-onboarding](projects/project-03-hiring-onboarding/) |
+| [project-04-platform-project](projects/project-04-platform-project/) |
 
 ## Shipped (autonomous)
 
