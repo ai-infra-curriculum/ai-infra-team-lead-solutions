@@ -1,5 +1,12 @@
 # Versions
 
+## 2026-11
+
+| Date | Work ID | Scope | Title |
+|---|---|---|---|
+| 2026-11-17 | `fill-mod-704-cross-team-coordination-solutions` | `mod-704-cross-team-coordination` | Fill mod-704-cross-team-coordination module exercise solutions |
+
+
 ## 2026-05
 
 | Date | Work ID | Scope | Title |
