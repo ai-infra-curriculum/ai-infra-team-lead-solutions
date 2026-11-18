@@ -29,3 +29,4 @@ Auto-appended by the AICG runner. One row per verified work item. Edit the rest 
 | Date | Work ID | Scope | Title |
 |---|---|---|---|
 | 2026-05-29 | `fill-project-01-team-process-solution` | `project-01-team-process` | Author solution artifact for project-01-team-process |
+| 2026-11-17 | `fill-mod-703-project-roadmap-solutions` | `mod-703-project-roadmap` | Fill mod-703-project-roadmap module exercise solutions |
