@@ -1,5 +1,12 @@
 # Versions
 
+## 2026-11
+
+| Date | Work ID | Scope | Title |
+|---|---|---|---|
+| 2026-11-17 | `fill-mod-701-team-operations-solutions` | `mod-701-team-operations` | Fill mod-701-team-operations module exercise solutions |
+
+
 ## 2026-05
 
 | Date | Work ID | Scope | Title |
