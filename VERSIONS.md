@@ -5,6 +5,8 @@
 | Date | Work ID | Scope | Title |
 |---|---|---|---|
 | 2026-11-17 | `fill-mod-704-cross-team-coordination-solutions` | `mod-704-cross-team-coordination` | Fill mod-704-cross-team-coordination module exercise solutions |
+| 2026-11-17 | `fill-mod-703-project-roadmap-solutions` | `mod-703-project-roadmap` | Fill mod-703-project-roadmap module exercise solutions |
+| 2026-11-17 | `fill-mod-701-team-operations-solutions` | `mod-701-team-operations` | Fill mod-701-team-operations module exercise solutions |
 
 
 ## 2026-05
